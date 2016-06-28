@@ -1,0 +1,18 @@
+
+	@media (max-width: 480px){
+
+		#btn{
+			left: 180px;
+			top: 125px;
+		}
+		#wave{
+			left: 125px;
+			top: 70px;
+		}
+		#btn_container:hover #menu{
+			display: none;
+		}
+
+		
+	}
+
